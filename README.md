@@ -1,8 +1,8 @@
 # KheopsBeat
 
-`FILEBEAT_VERSION` : `6.7.1`
+`FILEBEAT_VERSION` : `7.1.1`
 
-`METRICBEAT_VERSION` : `6.7.1`
+`METRICBEAT_VERSION` : `7.1.1`
 
 ## DEB
 
